@@ -42,11 +42,15 @@ Please check https://github.com/facebookresearch/pytorch3d/blob/master/INSTALL.m
 ## Citation
 If you find DeepSoRo useful in your research, please cite:
 ```BibTex
-@article{wang2019real,
-  title={Real-time Soft Robot 3D Proprioception via Deep Vision-based Sensing},
+@article{wang2020real,
+  title={Real-time soft body 3D proprioception via deep vision-based sensing},
   author={Wang, Ruoyu and Wang, Shiheng and Du, Songyu and Xiao, Erdong and Yuan, Wenzhen and Feng, Chen},
-  journal={arXiv preprint arXiv:1904.03820},
-  year={2019}
+  journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={2},
+  pages={3382--3389},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
